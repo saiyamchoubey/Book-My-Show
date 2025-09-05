@@ -69,7 +69,6 @@ Follow these steps to set up the project locally:
    ```bash
    mvn spring-boot:run
    ```
-5. **Access the app at:** [http://localhost:8080/](http://localhost:8080/)
 
 ---
 
