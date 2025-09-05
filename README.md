@@ -45,8 +45,7 @@ It provides a set of **RESTful APIs** that allow client applications to perform 
 ## 📊 Project Flow  
 
 ### 🔹 Flowchart  
-![BMS Flowchart](![Uploading IMG-20250905-WA0025.jpg…]()
-)  
+![BMS Flowchart](https://i.postimg.cc/KYwpVYgP/IMG-20250905-WA0025.jpg) 
 
 ### 🔹 Swagger UI Preview  
 ![Swagger Screenshot](src/main/java/com/driver/bookMyShow/Images/Book-my-show%20API%27s.png)  
