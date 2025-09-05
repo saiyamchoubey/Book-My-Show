@@ -1,3 +1,5 @@
+👉 [Click here to read the full Problem Statement](./Problem-Statement.md)
+
 # 🎬 Book My Show APIs – Spring Boot Project  
 
 This project is a **Spring Boot implementation** of backend APIs for a ticket booking system inspired by the popular platform **BookMyShow**.  
